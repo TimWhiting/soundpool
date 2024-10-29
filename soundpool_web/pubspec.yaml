@@ -13,6 +13,7 @@ dependencies:
 
   flutter_web_plugins:
     sdk: flutter
+  web: ^1.1.0
   
   soundpool_platform_interface: ^2.1.0
   
